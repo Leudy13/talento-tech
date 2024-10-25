@@ -1,1 +1,32 @@
 este es mi primer archivo
+
+crear una carpeta o directorio 
+mkdir proyecto1 
+
+ingresar a un directorio o cambiar a un directorio
+cd proyecto1
+
+crear un archivo de texto
+echo "este es mi primer archivo">archivo1.txt
+
+inicializar el directorio
+git init
+
+preparar un archivo para subir
+git add .
+
+realizar un commit
+git commit -m "mi primer commit"
+
+conectar con el repositorio remoto
+git remote add origin https://github.com/Leudy13/talento-tech.git
+
+colocar los archivos modificados en git hub
+git push -u origin main
+
+crear un trazo 
+git branch desarrollo 
+
+
+
+
